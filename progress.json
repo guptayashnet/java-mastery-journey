@@ -1,9 +1,9 @@
 {
-  "current_day": 1,
-  "current_topic": "diagnostic",
-  "phase": "lesson",
+  "current_day": 2,
+  "current_topic": "jvm-internals",
+  "phase": "quiz",
   "topic_index": 1,
-  "quiz_score": 47,
+  "quiz_score": null,
   "consecutive_passes": 0,
   "topics_completed": [
     "diagnostic"
